@@ -1,0 +1,22 @@
+<Window xmlns="https://github.com/avaloniaui"
+	Background="#66ccff"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="450"
+        x:Class="SuikaiLauncher.MainWindow"
+        ExtendClientAreaToDecorationsHint="True"
+        WindowStartupLocation="CenterScreen"
+        Title="SuikaiLauncher">
+    <StackPanel Margin="40">
+        <TextBlock>Hello! Developer Qiuyue.</TextBlock>
+        <TextBlock>Welcome to here but there is Nothing to show.</TextBlock>
+        <ComboBox Width="200" Margin="0,10,0,0" SelectedIndex="2">
+            <ComboBoxItem Content="wuliaodexiaoluo" />
+            <ComboBoxItem Content="boximengling" />
+            <ComboBoxItem Content="jiangyanyue"/>
+            <ComboBoxItem Content="qiuyue" />
+        </ComboBox>
+        <Button>Hello</Button>
+    </StackPanel>
+</Window>
