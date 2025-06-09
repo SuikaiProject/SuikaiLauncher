@@ -1,6 +1,6 @@
 # SuikaiLauncher
 
-SuikaiLauncher ——一个天赋异禀的开源 Minecraft 启动器
+Minecraft 启动器 SuikaiLauncher。
 
 >[!WARNING] 
 > ## 轮胎混装，施工现场！
